@@ -4,7 +4,7 @@ Below is a comprehensive `README.md` file that provides step-by-step instruction
 
 ---
 
-# **Comprehensive Guide: Processing Chunks from RAG API and Enriching Jira User Stories**
+# **Developer Guide: Processing Chunks from RAG API and Enriching Jira User Stories**
 
 This guide provides detailed instructions for integrating with the RAG API, processing chunked responses, and enriching Jira user stories with contextual metadata. By following these steps, developers can improve query precision and relevance in their RAG pipeline.
 
