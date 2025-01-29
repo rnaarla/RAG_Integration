@@ -243,7 +243,3 @@ for story in enriched_stories:
 ## **Conclusion**
 
 By following this guide, you can effectively integrate with the RAG API, process chunked responses, and enrich Jira user stories with contextual metadata. This approach ensures improved query precision and relevance in your RAG pipeline.
-
----
-
-Save this content as `README.md` in your project directory. It provides clear instructions and code snippets for developers to follow.
